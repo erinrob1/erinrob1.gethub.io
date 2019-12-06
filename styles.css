@@ -29,6 +29,15 @@ nav-item.active {
 .nav-item:hover {
     color:#EAD9D2;
 }
+@font-face{
+    font-family: Playfair Display SC;
+    src: url("PlayfairDisplaySC-Regular.ttf");
+}
+
+@font-face{
+    font-family: Raleway;
+    src: url("Raleway-Regular.ttf");
+}
 @font-face {
     font-family: Sinthya;
     src: url("Sinthya.ttf"); 
